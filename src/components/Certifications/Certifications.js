@@ -20,7 +20,7 @@ function Certifications() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <CertificationsCard
-              imgPath={PHP}
+              imgPath={CipherSchools}
               isBlog={false}
               title="Data Analysis with Tableau"
               description="Offered by Coursera, this certification demonstrates proficiency in building dynamic data analysis using Tableau. Covered topics include forms, sessions, and security practices."
@@ -32,7 +32,7 @@ function Certifications() {
         
           <Col md={4} className="project-card">
             <CertificationsCard
-              imgPath={CipherSchools}
+              imgPath={PHP}
               isBlog={false}
               title="R Programming for Data Science"
               description="Certified by Coursera, this course focused on fundamental and advanced R programming language. Covered topics include arrays, linked lists, stacks, queues, trees, and complexity analysis."
