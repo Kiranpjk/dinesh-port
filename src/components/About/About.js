@@ -43,7 +43,7 @@ function About() {
               I specialize in Data Science, leveraging{" "}
               <b className="purple">R</b> and{" "}
               <i>
-                <b className="purple">modern JavaScript libraries and frameworks</b>
+                
               </i>{" "}
               like <b className="purple">Tableua</b> to create responsive and high-performance applications.
             </p>
