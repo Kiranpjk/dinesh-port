@@ -4,7 +4,7 @@ import CertificationsCard from "./CerticationsCards";
 import Particle from "../Particle";
 import CipherSchools from "../../Certifications/PHP.png";
 import PHP from "../../Certifications/CipherSchools.png";
-import DSA from "../../Certifications/DSA JPG.png";
+import DSA from "../../Certifications/DSA JPG.jpg";
 
 function Certifications() {
   return (
